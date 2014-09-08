@@ -1,3 +1,10 @@
+---
+tags: kids, oo
+languages: ruby
+level: 1
+type: lab
+---
+
 # Build a Basic Object with Readers and Writers
 
 Pick one of the following items and build a class that serves as a blueprint for individual objects created with it. Add at least three readers and writers to the class that will describe instances of the item.

@@ -13,9 +13,8 @@ Pick one of the following items and build a class that serves as a blueprint for
 + Sportscar
 + Baby
 + Football player
-+ Subway
-+ Sneakers
-+ Pretty much any item of yoru choice!
++ Subway car
++ Pretty much any item of your choice!
 
 Once this is done, create three instances of the class using `.new` method and add descriptors for each instance using the writer classes you created.
 

@@ -7,7 +7,7 @@ type: lab
 
 # Build a Basic Object with Readers and Writers
 
-Pick one of the following items and build a class that serves as a blueprint for individual objects created with it. Add at least three readers and writers to the class that will describe instances of the item.
+Pick one of the following items and build a class that serves as a blueprint for individual objects created with it. Add at least three readers and writers to the class that will read and write attributes for each instance of the class.
 
 + Dog
 + Sportscar
@@ -16,5 +16,5 @@ Pick one of the following items and build a class that serves as a blueprint for
 + Subway train
 + Pretty much any item of your choice!
 
-Once this is done, create three instances of the class using `.new` method and add descriptors for each instance using the writer classes you created.
+Once this is done, create three instances of the class using `.new` method and add attributes for each instance using the writer classes you created.
 

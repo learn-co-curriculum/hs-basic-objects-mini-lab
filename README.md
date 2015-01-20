@@ -6,8 +6,7 @@ type: lab
 ---
 
 # Build a Basic Object with Readers and Writers
-
-Pick one of the following items and build a class that serves as a blueprint for individual objects created with it. Add at least three readers and writers to the class that will read and write attributes for each instance of the class.
+<img src="https://after-school-assets.s3.amazonaws.com/oo-austin-powers.jpg" width="200px" align="right" hspace="10"> Pick one of the following items and build a class that serves as a blueprint for individual objects created with it. Add at least three readers and writers to the class that will read and write attributes for each instance of the class.
 
 + Dog
 + Sportscar

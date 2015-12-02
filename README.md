@@ -12,3 +12,5 @@
 
 Once this is done, create three instances of the class using `.new` method and add attributes for each instance using the writer classes you created.
 
+
+<a href='https://learn.co/lessons/hs-basic-objects-mini-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
